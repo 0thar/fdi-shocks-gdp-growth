@@ -11,7 +11,7 @@ Do large inflows of foreign direct investment actually raise GDP per capita in t
 - After inverse propensity weighting, the sign flips positive and the effect is small and insignificant in every sample. The consistent null across models points to a genuinely negligible effect rather than a lack of power.
 - Treated and control countries follow nearly identical GDP paths, which supports the parallel trends assumption.
 
-![Average log GDP per capita, treated vs. control countries](figures/gdp-trends-treated-vs-control.png)
+![Average log GDP per capita, treated vs. control countries](gdp-trends-treated-vs-control.png)
 
 ## Methods
 
@@ -22,5 +22,4 @@ Do large inflows of foreign direct investment actually raise GDP per capita in t
 ## Files
 
 - `paper.pdf`: full paper with tables and diagnostics
-- `code/analysis.R`: data cleaning, models, and figures
-- `figures/`: key chart
+- `analysis.R`: data cleaning, models, and figures
